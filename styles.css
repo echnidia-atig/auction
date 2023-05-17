@@ -181,3 +181,31 @@ input[type=checkbox]:checked ~ .sidebarIconToggle > .diagonal.part-2 {
 .productBottom{
   margin: 5px;
 }
+.text-blk{
+    margin:5px;
+    margin-top:20%;
+    margin-right: 10%;
+}
+.u2{
+    margin:5px;
+    margin-top:20%;
+    margin-right: 10%;
+}
+.u3{
+    margin:5px;
+    margin-top:20%;
+    margin-right: 10%;
+}
+.u4{
+    margin:5px;
+    margin-top:20%;
+    margin-right: 2%;
+}
+.u5{
+    margin:5px;
+    margin-top:20%;
+    margin-right: 10%;
+}
+body{
+    background-color:#fc0303;
+}
